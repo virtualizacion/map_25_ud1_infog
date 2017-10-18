@@ -353,7 +353,7 @@
 	        this.blackout.fadeIn(500);
 	        
 	    },
-	    showCorrect(){
+	    showCorrect: function(){
 
 	        this.hideBlot();
 
